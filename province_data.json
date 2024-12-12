@@ -1,0 +1,44 @@
+{
+    "West Java": {
+        "Bandung": {
+            "coords": [-6.9175, 107.6191],
+            "connections": ["Bekasi", "Cimahi", "Sumedang"]
+        },
+        "Bekasi": {
+            "coords": [-6.2345, 107.0095],
+            "connections": ["Bandung", "Karawang", "Cikarang"]
+        },
+        "Cimahi": {
+            "coords": [-6.8764, 107.5306],
+            "connections": ["Bandung", "Sumedang"]
+        },
+        "Sumedang": {
+            "coords": [-6.8685, 108.6157],
+            "connections": ["Bandung", "Cimahi", "Cirebon"]
+        },
+        "Karawang": {
+            "coords": [-6.3033, 107.3298],
+            "connections": ["Bekasi", "Cikarang", "Purwakarta"]
+        },
+        "Cikarang": {
+            "coords": [-6.3107, 107.2388],
+            "connections": ["Bekasi", "Karawang", "Purwakarta"]
+        },
+        "Cirebon": {
+            "coords": [-6.7035, 108.5572],
+            "connections": ["Sumedang", "Indramayu"]
+        },
+        "Purwakarta": {
+            "coords": [-6.5574, 107.5547],
+            "connections": ["Karawang", "Cikarang", "Subang"]
+        },
+        "Indramayu": {
+            "coords": [-6.4684, 108.3432],
+            "connections": ["Cirebon"]
+        },
+        "Subang": {
+            "coords": [-6.5322, 107.7515],
+            "connections": ["Purwakarta"]
+        }
+    }
+}
