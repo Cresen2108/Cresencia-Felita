@@ -1,5 +1,0 @@
-streamlit
-pydeck
-networkx
-pandas
-lson
