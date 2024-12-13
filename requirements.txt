@@ -1,6 +1,0 @@
-streamlit
-pydeck
-networkx
-pandas
-json
-matplotlib.pyplot
